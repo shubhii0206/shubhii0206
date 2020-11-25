@@ -16,11 +16,12 @@
 <a href="https://www.quora.com/profile/Shubhi-Yadav-48">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quora.svg" />
 </a>
-<a href="https://medium.com/@shubhiyadav094">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
 
-<br />
+<br>
+
+
+
+
 
 - 🔭 I’m currently working on  Javascript project to display google form results with graphs.
 - 🌱 I’m currently learning DSA, Cpp and android development.
