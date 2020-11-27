@@ -19,6 +19,9 @@
 <a href="https://medium.com/@shubhiyadav094">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
+<a href="https://instagram.com/shubhii0206/">
+  <img align="left" alt="Reeha's Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 
 <br>
 
