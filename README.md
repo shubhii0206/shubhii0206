@@ -38,7 +38,7 @@
 - 📫 How to reach me:shubhiyadav094@gmail.com
 - 😄 Pronouns:she/her
 - ⚡ Fun fact: I play guitar.
-- :purple_heart: My portfolio: https://portfolios.talentsprint.com/~shubhi/
+- :purple_heart: My coding portfolio: https://leetcode.com/u/shubhii_123/
 
 ## Tech Stacks :computer:
 
