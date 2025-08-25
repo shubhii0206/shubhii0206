@@ -30,14 +30,14 @@
 ## My current stats!
 
 
-- 🔭 I’m currently working on  Javascript project to display google form results with graphs.
-- 🌱 I’m currently learning DSA, Cpp and android development.
-- 👯 I’m looking to collaborate on flutter, python and cpp projects.
-- 🤔 I’m looking for help with DSA.
-- 💬 Ask me about Competitive Coding, DSA and flutter.
+- 🔭 I’m currently working on Machine Learning, Deep Learning & Gen AI.
+- 🌱 I’m currently learning DSA.
+- 👯 I’m looking to collaborate on challenging and meaningful projects.
+- 🤔 Current Project: Realness Assessment of AI Generated Images.
+- 💬 Ask me about Gate,M.tech, Visual Computing and Python.
 - 📫 How to reach me:shubhiyadav094@gmail.com
 - 😄 Pronouns:she/her
-- ⚡ Fun fact: I play guitar.
+- ⚡ Fun fact: Nothing fun happening in life currently.
 - :purple_heart: My coding portfolio: https://leetcode.com/u/shubhii_123/
 
 ## Tech Stacks :computer:
